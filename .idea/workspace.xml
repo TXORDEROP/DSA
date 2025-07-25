@@ -5,16 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="986bb3dd-8f44-48a2-b407-bf3c7243844b" name="Changes" comment="Dsa Day 1: Array:">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA_GRIND.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/isPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/isPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayres.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secondlargest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stringbuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stringpraaaa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stringresss.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testnee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/twoDarrres.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +29,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;TXORDEROP&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/TXORDEROP/DSA&quot;,
+    &quot;accountId&quot;: &quot;f45adbaa-7702-4f2b-aef6-e01674bf663f&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/stringbuilder.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -40,18 +53,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Traversingarray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.isPalindrome.executor&quot;: &quot;Run&quot;,
-    &quot;Application.minmax.executor&quot;: &quot;Run&quot;,
-    &quot;Application.reversearrra.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/adity/IdeaProjects/DSA_GRIND/src/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Traversingarray.executor": "Run",
+    "Application.arrayres.executor": "Run",
+    "Application.isPalindrome.executor": "Run",
+    "Application.minmax.executor": "Run",
+    "Application.reversearrra.executor": "Run",
+    "Application.stringbuilder.executor": "Run",
+    "Application.stringpraaaa.executor": "Run",
+    "Application.stringresss.executor": "Run",
+    "Application.testnee.executor": "Run",
+    "Application.twoDarrres.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/adity/IdeaProjects/DSA_GRIND/src/Main.java"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -77,7 +96,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752077801141</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Dsa Day 1: Array:">
+      <option name="closed" value="true" />
+      <created>1752232724165</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1752232724165</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
